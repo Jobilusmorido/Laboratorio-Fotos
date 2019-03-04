@@ -1,0 +1,14 @@
+article{
+    background: rgb(red, green, blue)
+    margin: 20%
+}
+
+header{
+    height: 300px; 
+    background: rgb(255,100,50);
+}
+img{
+    height: 250px;
+    width: 300px;
+    margin: 2%;
+}
